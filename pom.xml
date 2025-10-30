@@ -6,7 +6,7 @@
 
     <groupId>dev.Fjc</groupId>
     <artifactId>foxwolf</artifactId>
-    <version>1.0</version>
+    <version>0.1.1b</version>
     <packaging>jar</packaging>
 
     <name>foxwolf</name>
