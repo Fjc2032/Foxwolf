@@ -1,0 +1,8 @@
+name: Foxwolf
+version: '1.0'
+main: dev.Fjc.foxwolf.Foxwolf
+api-version: '1.21'
+prefix: Foxwolf
+load: STARTUP
+authors: [ Fjc ]
+description: Makes foxes more aggressive
